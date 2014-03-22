@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>fr.sgcib</groupId>
-  <artifactId>investing-at-the-market</artifactId>
+  <artifactId>katastrophic</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>investing-at-the-market</name>
+  <name>katastrophic</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
