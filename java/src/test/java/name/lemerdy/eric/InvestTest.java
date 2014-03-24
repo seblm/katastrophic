@@ -1,5 +1,7 @@
-package fr.sgcib;
+package name.lemerdy.eric;
 
+import name.lemerdy.eric.Invest;
+import name.lemerdy.eric.Investment;
 import org.junit.Test;
 
 import static java.util.Arrays.asList;

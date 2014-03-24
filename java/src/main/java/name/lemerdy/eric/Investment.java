@@ -1,9 +1,8 @@
-package fr.sgcib;
+package name.lemerdy.eric;
 
 import java.util.List;
 
 import static java.lang.Integer.MIN_VALUE;
-import static java.util.Arrays.asList;
 
 public class Investment {
     private final int amount;
